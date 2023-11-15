@@ -1,6 +1,6 @@
 # Employees-Attrition
 ## INTRODUCTION:
-          Employee attrition refers to an employee’s voluntary or involuntary resignation from a workforce.
+Employee attrition refers to an employee’s voluntary or involuntary resignation from a workforce.
 Organizations spend many resources in hiring talented employees and training them. Every employee is critical to a company’s success. 
 My goal was to predict employee attrition and identify the factors contributing to an employee leaving a workforce.
 We also analyzed the dataset to identify key factors contributing to an employee leaving a workforce. 
