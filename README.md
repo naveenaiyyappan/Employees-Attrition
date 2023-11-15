@@ -22,3 +22,16 @@ Our project will assist organizations in gaining fresh insights into what drives
  13)  import dash
  14)  import dash_html_components as html
  15)  import dash_core_components as dcc
+
+## METHODOLGY
+1)  Data preprocessing
+2)  Check duplicate values in dataset
+3)  Catergorical columns
+4)  Numerical columns
+5)  Create a plotly with the help of seaborn
+6)  Encoding
+7)  Logistic Regression with the help of sklearn
+8)  Then Model Building (train & test)
+9)  Confusion Matrix
+10) After all these things I create a DashBoard
+11) DashBoard is helps to data visualization
